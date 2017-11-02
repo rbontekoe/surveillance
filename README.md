@@ -7,4 +7,7 @@ The central observing system will be built with Scala and process the images usi
 ## Use Case
 <img src="https://github.com/rbontekoe/surveillance/blob/master/Surveillance%20System.png" />
 
+## Version
+v0.1
+
 
